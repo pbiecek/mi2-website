@@ -87,7 +87,7 @@ document.body.classList.add("two-columns")
 * [Wiktoria Mieleszczenko-Kowszewicz](the-team.html#wiktoria-mieleszczenko-kowszewicz), PhD
 * [Dawid Płudowski](the-team.html#dawid-płudowski), MSc student
 * [Nuno Sepúlveda](https://www.immune-stats.net), PhD
-* [Bartek Sobieski](the-team.html#bartek-sobieski), MSc student
+* [Bartek Sobieski](the-team.html#bartek-sobieski), PhD student
 * [Jakub Świstak](the-team.html#jakub-swistak), MSc student
 * [Paulina Tomaszewska](the-team.html#paulina-tomaszewska), PhD student
 * [Piotr Wilczyński](the-team.html#piotr-wilczyński), MSc student
