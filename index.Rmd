@@ -87,7 +87,7 @@ document.body.classList.add("two-columns")
 * [Wiktoria Mieleszczenko-Kowszewicz](the-team.html#wiktoria-mieleszczenko-kowszewicz), PhD
 * [Dawid Płudowski](the-team.html#dawid-płudowski), MSc student
 * [Nuno Sepúlveda](https://www.immune-stats.net), PhD
-* [Bartek Sobieski](the-team.html#bartek-sobieski), MSc student
+* [Bartek Sobieski](the-team.html#bartek-sobieski), PhD student
 * [Jakub Świstak](the-team.html#jakub-swistak), MSc student
 * [Paulina Tomaszewska](the-team.html#paulina-tomaszewska), PhD student
 * [Piotr Wilczyński](the-team.html#piotr-wilczyński), MSc student
@@ -442,11 +442,13 @@ LinkedIn: [Patryk Słowakiewicz](https://www.linkedin.com/in/patryk-s%C5%82owaki
 
 <img src="images/bsobieski.jpg" >
 
-MSc student in Data Science at Warsaw University of Technology. Interested in deep learning and hyperparameter optimization.
+I am a PhD student in Computer Science at the University of Warsaw, focusing on research at the intersection of generative modeling and explainable artificial intelligence.
 
 GitHub: [sobieskibj](https://github.com/sobieskibj)
   
-LinkedIn: [Bartłomiej-Sobieski](www.linkedin.com/in/bartłomiej-sobieski)
+LinkedIn: [Bartłomiej Sobieski](https://www.linkedin.com/in/bartłomiej-sobieski)
+
+Google Scholar: [Bartłomiej Sobieski](https://scholar.google.com/citations?user=ZDCPqL8AAAAJ&hl=pl)
   
 
 ### Mikołaj Spytek {-}
