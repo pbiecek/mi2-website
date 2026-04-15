@@ -30,6 +30,8 @@ On a mission to responsibly build <br/>machine learning predictive models.
 MI².AI is a group of mathematicians and computer scientists who love to play with predictive models.
 We are spread between [Warsaw University of Technology](https://www.pw.edu.pl/engpw) and [University of Warsaw](https://en.uw.edu.pl). Here we have workshops and seminars, here we are forging new ideas, creating tools, solving problems, doing consulting and sharing our positive attitude. Feel free to jump in. 
 
+<p style="color: red;">In June 2025, our team, together with other research groups, formed the <a href="http://credibleai.eu/" style="color: red;">Centre for Credible AI</a>. This website will no longer be updated; all new information will be published on the Centre's website.</p>
+
 #### Mission {-}
 
 Machine learning is like atomic energy. **We develop leaders, skills, methods, tools and good practices so that predictive models can be deployed responsibly and sustainably**.
@@ -754,142 +756,6 @@ LinkedIn: [mateusz-wójcik](https://www.linkedin.com/in/mateusz-w%C3%B3jcik-859a
 
 </div>
 
-
-## Open Positions {-}
-
-<img src="images/positions_mi2.png" style="width: 100%;">
-
-We have an open call for  [xLungs](https://www.mi2.ai/research-grants.html#x-lungs-2021-2024) project for following positions. If you are interested in any of them please send your CV and Motivation Letter to przemyslaw.biecek at pw.edu.pl. We reserve the right to contact only selected candidates.
-
-### MI2 policy on benefits and obligations {-}
-
-We are seeking highly motivated and talented researchers at different career levels to join MI2.AI research team in the exciting field of explainability and red-teaming of AI models.
-
-There is a common recruitment policy for all positions.
-
-We are looking for
-
-* people interested in research who want to create methods and tools that have a real impact (not yet another paper).
-* proactive people with initiative.
-* people with proficiency in programming languages commonly used in AI research, at least one out of Python, R or Julia.
-* solid understanding of AI/ML models, including their architecture and training processes.
-* good communication skills and proficiency in academic writing; excellent problem-solving skills.
-
-We offer:
-
-- the opportunity to learn from experienced and motivated researchers at different career levels as well as the opportunity to work with a rich network of international and interdisciplinary collaborators (for example Harvard Medical School, Vienna University, LMU, NTU, KDD Lab, Bari University and many others).
-- an option for a tenure-track position after the completion of the postdoc. 
-- possibility to present research results at international conferences.
-- access to our supercomputers, among them Eden with 32x A100 cards and 1.5TB of storage, a perfect place for training large DNN models.
-
-
-**Salary**
-
-Salary depend on experience and type of project (some applied projects tend to have higher salaries than typical research projects). 
-
-Average rates range from 50-60 PLN/hour (equivalent to 8-9.5k FTE) for a motivated student with confirmed experience, through to 80-85 PLN/hour (equivalent to 12-13k FTE) for an experienced PhD student. The base salary for a post-doc (no obligatory teaching duties) is 120-140k gross per year (this is a base salary, extras depend on activity).
-
-
-### Research Software Engineer {-}
-
-In addition to research positions, we also offer positions for skilled programmers interested in research.
-
-**Required:**
-
-* Background in Computer Science, Mathematics, Statistics or similar. 
-* Experience in ML/AI models, the expaerience in Computer Vision or NLP will be a plus
-
-**Scope of work:**
-
-* Developing machine learning models for medical images (CT, MRI) or medical tabular data
-* Developing explanations for ML models for medical or tabular data
-* Prototyping solutions for end-users
-
-<!--
-
-
-### Low commitment projects (1/5 FTE) in 2023 {-}
-
-Ex 1: Any object can be embedded with an appropriately trained neural network. But can objects be embedded using tree-based models? This project (an ideal candidate for MSc thesis) is about exploring different embedding construction techniques based on random forest or boosting methods.
-
-Ex 2:  Analysis of champion-challenger model pairs on subsets of observations obtained using data segmentation. The project consists of an extension of the EPP method (Elo for predictive models) based on segmented data (e.g. by k-means or by random splits). In addition to the performance analysis, a PD profile comparison analysis is also performed on the splits.
-
-### Mid commitment projects (2-2.5/5 FTE) in 2023 {-}
-
-Ex 1: Development of techniques for explaining segmentation models for 1d (feature-producing models, e.g. survival models), 2d (image-producing models) or 3d data. (CT, hyperspectral images) Experience and knowledge of classical explanatory techniques (SHAP, LRP, CRP) are desirable.
-
-Ex 2:  Development of red-teaming techniques for LLaMA 2-type language models. Development of test suites testing the vulnerability of the model to a set of prompting-based attacks.
-
-
-### Full-time positions for post-docs in 2023 {-}
-
-
-In addition to the research tasks listed above, responsibilities include mentoring junior staff (students, PhD students) and leading small research groups.
-
-**Additional information about costs of living in Warsaw**
-
-[From FENS](https://fens.org.pl/en/job-offers/):
-Warsaw is the capital of Poland, so in principle it is one of the most expensive cities in the country but living in Warsaw is still much cheaper than in the majority of European cities. In general, a single person in Warsaw is able to cover all necessary expenses (flat, media, transport, food) with ca. 5000-5500 PLN per month. A typical cost of renting a 2-room flat (30-40 square meters) varies between 2000-3000 PLN, depending on the part of the city. Electricity and media (TV, Internet) are usually not included in the rent and have to be paid separately. The cost of the lunch in the vicinity of the main campus of WUT is ca. 25-40 PLN, while a monthly ticket for public transport is 110 or 180 PLN depending on the area of validity. Public health insurance is included in the post (this includes also admission to hospitals), however the medicines are paid separately.
-
-  
-  
-  
-I am looking for a post-doc to join the MI2.AI team for one or two years within [HOMER](https://www.mi2.ai/research-grants.html#homer-2020-2025) project.
-The ideal fit is someone with (experience in Medical Image Analysis with deep learning models) OR (someone with experience in AutoML for tabular data).
-Experience or interest in **XAI** / **fairness** will always be a huge plus in our team.
-
-We have a young and very energetic team focused on growth in AI. Full time position. Salary above academic average. Little or no didactics. Strong focus on doing things that are **meaningful**.
-
-**Required:**
-
-* PhD in Computer Science, Mathematics, Statistics or similar. (Different background? We encourage cross-domain short research visits).
-* Experience in Scientific Programming (R and/or Python and/or C++)
-* Good track of Scientific Records
-
-**Scope of work:**
-
-* Automated model exploration
-* Interpretable measures for model performance
-* Meta/transfer learning in automated model development
-* Automated model validation
-* Experiments with XAI for deep learning
-
-**Offer:**
-
-* Excellent atmosphere for work in a young and very active ML lab
-* Conferences and training budget
-* Short visits in cooperating abroad group
-* Access to CPU / GPU clusters
-* Full-time job at Warsaw University of Technology
-* plus results-driven extras
-* contract for 6 months (short visit) / 12 months or 24 months (long visit)
-
-<!-- ### ARES {-}
-
-PhD position funded by the PRELUDIUM BIS grant ARES (*Attack-Resistant Explanations toward Secure and trustworthy AI*).
-
-Machine learning explainability, fairness, robustness, and security are critical elements of trustworthy Artificial Intelligence, an area of strategic importance. The main goals:
-
-* develop adversarial attacks on state-of-the-art explanations to investigate  vulnerabilities and limitations of the existing explainability and fairness approaches  in machine learning, and
-* introduce novel robust explanations that are stable against manipulation and intuitive to evaluate.
-
-These are targeted at progressing responsible machine learning toward a secure and trustworthy adoption of AI solutions. 
-
-**Join us, and change the way how ML models will be explained and evaluated.**
-
-<img src="images/mi2-ares.png" style="width: 100%;"> -->
-
-
-### How to write a good motivation letter {-}
-
-If you would like to join our team, it is very important to prepare a good motivation letter. I get dozens of resumes a month and if they look like an automated letter generated with LLM sent to generic recipent I usually don't even write back to them.
-
-We don't do mass recruitment, we recruit 3-4 new people per year and they often work for us for a few years. If you want to work with us then prepare a good cover letter, and especially remember to:
-
-- write clearly what you are applying for. Whether it's a diploma thesis, summer internship, work on a project, which project. Be specific, because if you don't know what you want to do with us, no one will figure it out for you.
-- we value in the team people who are able to solve difficult problems. Don't write that you have done 40 projects, but describe the most difficult one you have completed.
-- if you have already worked somewhere, write what you did there and what you learned, not just the name of the company or position. 
-- before you send a letter review the list of our projects, the list of published articles, maybe talk to people who already work in our team and in your letter write in your own words why you want to work with us and at what
 
 
 ## Seminars {-}
